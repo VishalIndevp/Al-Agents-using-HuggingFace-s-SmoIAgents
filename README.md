@@ -7,3 +7,7 @@ To run this code, ensure you have the necessary libraries installed. You can ins
 
 !pip -q install smolagents
 !pip -q install litellm
+
+ <h1> Environment Variables
+Set your Hugging Face and OpenAI API keys as environment variables to authenticate and access their services:
+ </h1>
